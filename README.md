@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/gahyun01?pet-id=644068695498298729"
+    src="https://render.gitanimals.org/lines/gahyun01?pet-id=644068695498298728"
     width="600"
     height="120"
   />
+</a>
+  
 </a>
   
