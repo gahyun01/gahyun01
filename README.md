@@ -208,11 +208,12 @@ Java · C++ · Arduino · Winsock
 - Mail : gahyun727301@gmail.com
 
 <br/>
-
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=gahyun01&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/gahyun01"
-  width="600"
-  height="300"
-/>
-</a>
+<div align="center">
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=gahyun01&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/gahyun01"
+    width="600"
+    height="300"
+  />
+  </a>
+</div>
