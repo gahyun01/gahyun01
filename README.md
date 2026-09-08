@@ -203,9 +203,7 @@ Java · C++ · Arduino · Winsock
 # Contact
 
 - GitHub: [github.com/gahyun01](https://github.com/gahyun01)
-- Mail: `이메일 주소를 입력해 주세요`
-
----
+- Mail: gahyun727301@gmail.com
 
 <div align="center">
 
