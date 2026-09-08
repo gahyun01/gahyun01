@@ -1,8 +1,8 @@
 <div align="center">
 
-# 안녕하세요, AI와 백엔드를 함께 개발하는 정가현입니다 👋
+# 안녕하세요, AI와 백엔드를 함께 개발하는 정가현입니다 🙇‍♀️
 
-**AI/ML · Backend Developer**
+**ML/DL · Backend Developer**
 
 </div>
 
@@ -78,7 +78,7 @@ Kepler, K2, TESS 관측 데이터를 통합해 외계행성 후보를 판별하�
 - AI 모델 및 모바일 앱과 연동되는 백엔드 API를 구현했습니다.
 - API 명세를 기반으로 테스트 코드를 먼저 작성하는 TDD 흐름으로 개발했습니다.
 - 팀 협업 과정에서 Trunk-based 방식으로 코드를 관리하고 기능 단위 테스트를 진행했습니다.
-- AI 활용성과 서비스 완성도를 인정받아 **강남대학교 ICT공학부 졸업작품 🏆 우수상(2등)** 을 수상했습니다.
+- AI 활용성과 서비스 완성도를 인정받아 **강남대학교 ICT공학부 졸업작품 우수상(2등)**을 수상했습니다.
 
 <br/>
 
@@ -204,8 +204,14 @@ Java · C++ · Arduino · Winsock
 # Contact
 
 - GitHub: [github.com/gahyun01](https://github.com/gahyun01)
-- Mail: gahyun727301@gmail.com
+- Mail: `이메일 주소를 입력해 주세요`
 
+---
+
+<div align="center">
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/gahyun01?pet-id=644068695498298728" width="600" height="120" />
 </a>
 
 </div>
