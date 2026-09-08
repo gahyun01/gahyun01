@@ -78,7 +78,7 @@ Kepler, K2, TESS 관측 데이터를 통합해 외계행성 후보를 판별하�
 - AI 모델 및 모바일 앱과 연동되는 백엔드 API를 구현했습니다.
 - API 명세를 기반으로 테스트 코드를 먼저 작성하는 TDD 흐름으로 개발했습니다.
 - 팀 협업 과정에서 Trunk-based 방식으로 코드를 관리하고 기능 단위 테스트를 진행했습니다.
-- AI 활용성과 서비스 완성도를 인정받아 **강남대학교 ICT공학부 졸업작품 우수상(2등)**을 수상했습니다.
+- AI 활용성과 서비스 완성도를 인정받아 **강남대학교 ICT공학부 졸업작품 🏆 우수상(2등)** 을 수상했습니다.
 
 <br/>
 
@@ -208,7 +208,6 @@ Java · C++ · Arduino · Winsock
 - Mail : gahyun727301@gmail.com
 
 <br/>
-<div align="center">
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=gahyun01&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/gahyun01"
