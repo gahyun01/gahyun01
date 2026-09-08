@@ -127,7 +127,7 @@ Kepler, K2, TESS 관측 데이터를 통합해 외계행성 후보를 판별하�
 
 # 기타 프로젝트
 
-## [Side Project] myT
+## Side Project : myT
 
 Django 학습 내용을 서비스 형태로 확장한 여행 계획 및 후기 공유 웹 애플리케이션입니다.
 
@@ -135,14 +135,14 @@ Django 학습 내용을 서비스 형태로 확장한 여행 계획 및 후기 �
 - Django ORM으로 데이터 관계를 설계하고 기상청 API를 연동했습니다.
 - **GitHub**: [myT](https://github.com/gahyun01/myT)
 
-## [Learning Project] FastAPI Practice
+## Learning Project : FastAPI Practice
 
 졸업작품을 시작하기 전 FastAPI 기반 백엔드 구조를 익히기 위해 진행한 프로젝트입니다.
 
 - REST API, SQLAlchemy 관계 설정, MySQL 연동, JWT 인증을 단계적으로 구현했습니다.
 - **GitHub**: [FastAPI Practice](https://github.com/gahyun01/FastAPI)
 
-## [Learning Project] Django Local Library
+## Learning Project : Django Local Library
 
 솔루션개발팀 이동을 준비하며 Django 공식 튜토리얼을 기반으로 구현한 도서 대출 관리 서비스입니다.
 
@@ -168,12 +168,14 @@ Django 학습 내용을 서비스 형태로 확장한 여행 계획 및 후기 �
 
 # 교육 및 학력
 
-## [교육] 그린컴퓨터아카데미 역삼점
+## 교육
+### 그린컴퓨터아카데미 역삼점
 
 - 클라우드 활용 Java·Spring Framework 개발자 과정 수료
 - Java 객체지향 프로그래밍, 데이터베이스, JDBC, JSP 및 웹 개발 학습
 
-## [학력] 강남대학교
+## 학력
+### 강남대학교
 
 - 소프트웨어전공 학사 졸업 · 2025.02
 - AI 기반 육아 보조 서비스로 ICT공학부 졸업작품 우수상(2등)
@@ -207,10 +209,10 @@ Java · C++ · Arduino · Winsock
 
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/gahyun01?pet-id=644068695498298728" width="600" height="120" />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=gahyun01&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/gahyun01"
+  width="600"
+  height="300"
+/>
 </a>
-
-</div>
